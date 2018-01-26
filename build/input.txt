@@ -1,0 +1,22 @@
+#node and element files
+'./MESH/INPUT.1.node','./MESH/INPUT.1.ele'
+#quadratic (2) or linear(1)
+1
+#ATP
+9900.0,0.145,0.145,0.145
+#ADP
+100,0.145,0.145,0.145
+#AMP
+5.6325,0.145,0.145,0.145
+#PCr
+12000.0,0.260,0.260,0.260
+#Cr
+11000.0,0.260,0.260,0.260
+#Pi
+2000.8,0.327,0.327,0.327
+#Oxy
+45.00,2.41,2.41,2.41
+#DPsi
+168.4181,0,0,0
+#Vol fractionsd
+'./INPUTS/elongation_ratio.txt'
