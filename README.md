@@ -20,7 +20,7 @@ microsocpy images.
 ----------------------
  src/:
  - directory containing the fortran 90 program routine that uses opencmiss libraries to simulate mitochondrial OXHPOS and diffusion of metabolites in a cross section of a cell.
- build/:
+build/:
   - directory containing all the necessary inputs that are required for the simulations
     - inputs.txt containts the diffusvity values and intial micromolar concentrations of the metabolites simulated in the model 
     MESH/:
